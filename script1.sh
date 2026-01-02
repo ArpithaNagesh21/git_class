@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "welocom3"
+echo "$1"
